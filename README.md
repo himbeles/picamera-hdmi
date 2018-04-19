@@ -2,8 +2,8 @@
 
 This is a board to convert the 15x1mm flat flex cable (FFC) from the Pi camera to (mini) HDMI, and from HDMI back to FFC on the Raspberry Pi side.
 
-![top view](doc/view3D-top-unassembled.png)
-![top view](doc/view3D-bot-unassembled.png)
+<img src="doc/view3D-top-unassembled.png" alt="top view" width="200">
+<img src="doc/view3D-bot-unassembled.png" alt="bot view" width="200">
 
 The purpose of this is to replace the fragile FFC connecting the Pi and the camera with a sturdier HDMI cable for "daily" camera use.
 The design is inspired by [this extension board](https://shop.pimoroni.com/products/pi-camera-hdmi-cable-extension).
